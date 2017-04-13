@@ -2,6 +2,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brigadehub/admin-gateway.svg)](https://greenkeeper.io/)
+
 # Admin Gateway
 
 [![TrustOSS Compliant](http://trustoss.org/badge_version.svg)](http://trustoss.org)
